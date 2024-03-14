@@ -1,1 +1,4 @@
-This is a git hub learning session
+This is a git hub learning session 
+
+git commit "hello";
+git init - to establish connection 
